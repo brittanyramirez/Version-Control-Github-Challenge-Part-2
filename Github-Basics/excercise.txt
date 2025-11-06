@@ -1,0 +1,23 @@
+A computer terminal is like the "engine room" of the computer.
+The terminal controls your computer because it is a text based 
+tool. This allows you to control it by typing the commands instead 
+of having to click on icons. It's almost like having a conversation with
+your computer's operating system.
+
+
+There are multiple differences between Git and GitHub. If I had to choose
+the main difference it would be that Git focuses on version control and code sharing
+while GitHub focuses on centralized source code hosting. Git is a software meanwhile GitHub
+is a servce. Another difference between the two would be how they are accessed, Git is installed locally 
+on the system. Meanwhile Github is hosted on the web. These are the main differences 
+that stand out to me.
+
+
+Please follow the following steps if you are trying to fork your GitHub repository.
+1: Open Github on your web browser and open up the repository you are trying to fork.
+2: Click on the "Fork" button that is located in the top right corner.
+3: Make sure the correct owner is selected. You will click under "owner" and click on 
+the dropdown menu and click the correct owner for the the forked repository.
+4: Click "Create fork" button. This will now create an entire copy of the repository.
+5: You may also add descriptions in the "description" box which can be helpful. After all this
+you can move onto cloning your forked repository.
